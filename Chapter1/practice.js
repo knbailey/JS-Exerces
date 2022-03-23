@@ -1,3 +1,2 @@
-let dinner = ['fish', 'and', 'chips'];
-
-console.log(dinner[1]);
+// let dinner = ['fish', 'and', 'chips'];
+// console.log(dinner[1]);
