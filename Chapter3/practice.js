@@ -53,12 +53,12 @@
 //   num += 2;
 // }
 
-let fish = ['Dory', 'Marlin', 'Gill', 'Nemo', 'Bruce'];
+// let fish = ['Dory', 'Marlin', 'Gill', 'Nemo', 'Bruce'];
 
-for (let i = 0; i < fish.length; i += 1) {
-  console.log(fish[i]);
+// for (let i = 0; i < fish.length; i += 1) {
+//   console.log(fish[i]);
 
-  if (fish[i] === 'Nemo') {
-    break;
-  }
-}
+//   if (fish[i] === 'Nemo') {
+//     break;
+//   }
+// }
