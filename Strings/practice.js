@@ -41,13 +41,13 @@
 // console.log(isBlank('  ')); // false
 // console.log(isBlank('')); // true
 
-let string = 'launch school tech & talk';
-let words = string.split(' ');
-let capWord = [];
+// let string = 'launch school tech & talk';
+// let words = string.split(' ');
+// let capWord = [];
 
-for (let i = 0; i < words.length; i++) {
-  let word = words[i];
-  capWord.push(word[0].toUpperCase() + word.slice(1));
-}
+// for (let i = 0; i < words.length; i++) {
+//   let word = words[i];
+//   capWord.push(word[0].toUpperCase() + word.slice(1));
+// }
 
-console.log(capWord.join(' '));
+// console.log(capWord.join(' '));
