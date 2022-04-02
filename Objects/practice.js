@@ -77,11 +77,11 @@
 // let person = Object.fromEntries(nestedArray);
 // console.log(person);
 
-let obj = {
-  number: 1,
-  string: 'abc',
-  array: [1, 2, 3],
-};
-function clone(obj) {
-  return Object.assign({}, obj);
-}
+// let obj = {
+//   number: 1,
+//   string: 'abc',
+//   array: [1, 2, 3],
+// };
+// function clone(obj) {
+//   return Object.assign({}, obj);
+// }
